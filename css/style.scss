@@ -1,0 +1,17 @@
+.wrapper {
+    //background-color: rgba(0,0,255,0.2);
+    height: 100vh;
+    //display: flex;
+    justify-content: center;
+    align-items: center;
+    section {
+        width: 75%;
+        //background-color: #fff;
+        height: 75%;
+        //display: flex;
+        justify-content: center;
+        align-items: center;
+        border-width: 0.75em!important;
+       
+    }
+}
